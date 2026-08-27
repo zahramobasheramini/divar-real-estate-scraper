@@ -1,4 +1,4 @@
-# Divar Lahijan Real Estate Scraper
+# Divar Real Estate Scraper
 
 A small Python project for collecting real-estate listings from Divar in Lahijan, Iran.
 
